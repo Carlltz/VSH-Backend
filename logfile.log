@@ -1,0 +1,79 @@
+{"level":"error","message":"Genre is not defined"}
+{"level":"error","message":"E11000 duplicate key error collection: test.tests index: name_1 dup key: { name: \"New Test\" }"}
+{"level":"error","message":"11000"}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"User validation failed: password: Path `password` is required."}
+{"level":"error","message":"Method no longer accepts array arguments: invalid"}
+{"level":"error","message":"Options contain unknown keys: invalidate"}
+{"level":"error","message":"Options contain unknown keys: invalidate"}
+{"level":"error","message":"req.body.username.contains is not a function"}
+{"level":"error","message":"User validation failed: password: Path `password` is required."}
+{"level":"error","message":"Unexpected token } in JSON at position 65"}
+{"level":"error","message":"Unexpected token } in JSON at position 65"}
+{"level":"error","message":"joi is not defined"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'includes')"}
+{"level":"error","message":"user is not defined"}
+{"level":"error","message":"config is not defined"}
+{"level":"error","message":"User.generateAuthToken is not a function"}
+{"level":"error","message":"req.body.foreach is not a function"}
+{"level":"error","message":"req.body.foreach is not a function"}
+{"level":"error","message":"user is not defined"}
+{"level":"error","message":"Assignment to constant variable."}
+{"level":"error","message":"session.endSession is not a function"}
+{"level":"error","message":"session.startTransaction is not a function"}
+{"level":"error","message":"user is not defined"}
+{"level":"error","message":"Invalid status code: An error occured: "}
+{"level":"error","message":"Invalid status code: An error occured: "}
+{"level":"error","message":"Invalid status code: An error occured: "}
+{"level":"error","message":"Cannot call abortTransaction twice"}
+{"level":"error","message":"session.startSession is not a function"}
+{"level":"error","message":"Cannot call abortTransaction after calling commitTransaction"}
+{"level":"error","message":"Cannot call abortTransaction after calling commitTransaction"}
+{"level":"error","message":"Cannot call abortTransaction twice"}
+{"level":"error","message":"members is not defined"}
+{"level":"error","message":"Cast to ObjectId failed for value \"Carlltz\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle"}
+{"level":"error","message":"Cannot do inclusion on field saved in exclusion projection"}
+{"level":"error","message":"cosnole is not defined"}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"Cast to ObjectId failed for value \"groupIds\" (type string) at path \"memberId\" for model \"Group\""}
+{"level":"error","message":"joi.object(...).items is not a function"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'details')"}
+{"level":"error","message":"Cast to [string] failed for value \"[ [ '62eee1868cc3e3e2ad5e922e', 'Privat' ] ]\" (type string) at path \"groups.0\" because of \"CastError\""}
+{"level":"error","message":"isArray is not defined"}
+{"level":"error","message":"Parameter \"filter\" to findOne() must be an object, got 62f022caa1c26ab48660f631"}
+{"level":"error","message":"Parameter \"filter\" to find() must be an object, got 62f022caa1c26ab48660f631"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"FieldPath field names may not start with '$'. Consider using $getField or $setField."}
+{"level":"error","message":"FieldPath field names may not start with '$'. Consider using $getField or $setField."}
+{"level":"error","message":"Expression $arrayElemAt takes exactly 2 arguments. 1 were passed in."}
+{"level":"error","message":"Arguments must be aggregate pipeline operators"}
+{"level":"error","message":"Invalid rule"}
+{"level":"error","message":"Cast to number failed for value \"65\" (type string) at path \"uid\" for model \"Username\""}
+{"level":"error","message":"Cast to number failed for value \"i\" (type string) at path \"uid\" for model \"Username\""}
+{"level":"error","message":"Cast to number failed for value \"65\" (type string) at path \"uid\" for model \"Username\""}
+{"level":"error","message":"The array type does not allow arguments"}
+{"level":"error","message":"The array type does not allow arguments"}
+{"level":"error","message":"The array type does not allow arguments"}
+{"level":"error","message":"The array type does not allow arguments"}
+{"level":"error","message":"Cast to ObjectId failed for value \"{ id: '62f4f2373a3749c1d628d738' }\" (type Object) at path \"id\" for model \"Username\""}
+{"level":"error","message":"$regex has to be a string"}
+{"level":"error","message":"Plan executor error during findAndModify :: caused by :: Cannot apply $addToSet to non-array field. Field named 'membersData' has non-array type object"}
+{"level":"error","message":"Group.findAll is not a function"}
+{"level":"error","message":"Cast to Embedded failed for value \"62f4f2373a3749c1d628d738\" (type string) at path \"members.$*\" for model \"Group\""}
+{"level":"error","message":"Cast to Embedded failed for value \"62f4f2373a3749c1d628d738\" (type string) at path \"members.$*\" for model \"Group\""}
+{"level":"error","message":"Cast to Embedded failed for value \"62f4f2373a3749c1d628d738\" (type string) at path \"members.$*\" for model \"Group\""}
+{"level":"error","message":"Group.findMany is not a function"}
+{"level":"error","message":"Cast to Embedded failed for value \"62f4f2373a3749c1d628d738\" (type string) at path \"members.$*\" for model \"Group\""}
+{"level":"error","message":"Iterator value 6 is not an entry object"}
+{"level":"error","message":"Iterator value 6 is not an entry object"}
+{"level":"error","message":"Cast to [string] failed for value \"[ [ '62efd3ae763bd4f7c0798355' ] ]\" (type string) at path \"liked.0\" because of \"CastError\""}
